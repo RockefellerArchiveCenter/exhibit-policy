@@ -1,0 +1,10 @@
+public: false
+type: "docs"
+tags:
+  - "policy"
+  - "procedure"
+  - "exhibits program"
+title: "Exhibit Program Policies and Procedures"
+description: "Special exhibits policy and process for staff"
+pages:
+  - ["Exhibit Program Policies and Procedures", "index"]
