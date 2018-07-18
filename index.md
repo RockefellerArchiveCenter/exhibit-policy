@@ -14,7 +14,7 @@ Security of the original archival materials on exhibit must be taken into accoun
 
 In determining the quantity of materials to be exhibited, the space allocated for the exhibit should be considered along with intellectual scope. Even when desired for content, an overload of materials creates additional security and handling concerns and choices must be made.
 
-When preparing an exhibit in a locked vault space, a placeholder sign noting whom to contact and when the exhibit will be viewed should remain with the materials once the exhibit has been finalized and staged.  Once an exhibit in a vault space has been concluded, vault doors must be locked as soon as the group exits.
+When preparing an exhibit in a locked vault space, a placeholder sign noting whom to contact and when the exhibit will be viewed should remain with the materials once the exhibit has been finalized and staged.
 
 Archival staff should be with materials at all times if materials are staged and exhibited in a room without a lock (i.e., a public room), and staff assigned to that space should remain with the materials until the exhibit has been dismantled and safely rehoused.
 
@@ -28,7 +28,6 @@ RAC staff who are involved in exhibit security should ensure the following objec
 * Articulate handling procedures to visitors before the exhibit narrative begins
 * Model correct handling techniques when interacting with the documents
 * Engage with the visitors and answer questions
-* Make sure the space is locked or the items have been rehoused and moved out of the exhibit space before leaving the exhibit.
 
 Some group visits may be of such a nature that it is not possible for archival staff to introduce themselves and to brief visitors on document handling rules as they enter the exhibit space. However, security staff should feel empowered to ensure proper handling at all times through discreet intervention with visitors when necessary.
 
