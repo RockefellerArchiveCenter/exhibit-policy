@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  "Rockefeller Archive Center Exhibit Program Policies and Procedures"
+title:  "Exhibit Program Policies and Procedures"
 ---
 
 ## Exhibit objective
